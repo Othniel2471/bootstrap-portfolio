@@ -11,3 +11,20 @@
 .nav-list .nav-content a:hover {
     color: #6070ff;
   }
+
+.card {
+  border-radius: 20px;
+}
+
+.card img {
+  width: 100%;
+}
+
+.card .card-body ul  {
+  list-style-type: disc !important;
+}
+
+.bg-info-lighter {
+  background-color: #EBEBFF;
+;
+}
