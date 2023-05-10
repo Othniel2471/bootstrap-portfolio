@@ -124,11 +124,11 @@ To run tests, run the following command:
 - Twitter: (https://twitter.com/@ert49554392)
 - LinkedIn: (https://www.linkedin.com/in/robert-m-3b3b1116a/)
 
-👤 **Aamir Asaram**
+👤 **Omaidu Othniel**
 
-- GitHub: (https://github.com/aamir-asaram)
-- Twitter: (https://twitter.com/aaaaamir_)
-- LinkedIn: (https://www.linkedin.com/in/aamir-asaram-089802213/)
+- GitHub: (https://github.com/othniel2471)
+- Twitter: (https://twitter.com/@Oomaidu)
+- LinkedIn: (https://www.linkedin.com/in/othniel-omaidu-3350a9164)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
