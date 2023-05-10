@@ -1,5 +1,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,300;0,500;1,400&display=swap');
 
+body {
+    font-family: 'Poppins', sans-serif;
+    background: #e5e5e5;
+  }
+
+.navbar{
+    box-shadow: 0 1px 10px -5px grey;
+}
+
 .navbar-brand{
     color: #6070ff;
 }
@@ -10,6 +19,40 @@
 
 .nav-list .nav-content a:hover {
     color: #6070ff;
+  }
+
+.hero-section {
+    background-image: url(../images/background/desktop/Header\ bg.png);
+    background-size: 100% 691.46px;
+    background-position-x: right;
+    background-repeat: no-repeat;
+    height: 846px;
+    border-bottom-left-radius: 90px;
+    background-color: #fff;
+}
+
+.hero-container{
+    margin-top: 72px;
+    padding-top: 15rem;
+    padding-left: 15rem;
+}
+
+.details{
+    width: 59%;
+}
+
+.connect{
+    color: #7f8cff;
+    cursor: pointer;
+}
+
+.connect:hover {
+    color: #344563;
+}
+
+.icons:hover {
+    transform: translateY(10px);
+    transition: 0.5s;
   }
 
 .card {
